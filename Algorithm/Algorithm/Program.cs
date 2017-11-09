@@ -11,7 +11,7 @@ namespace Algorithm
         static void Main(string[] args)
         {
             Console.WriteLine("пунь-пунь");
-            Console.WriteLine("dniwe git");
+            Console.WriteLine("dniwe gitty");
         }
     }
 }
