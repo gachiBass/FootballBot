@@ -10,7 +10,7 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ddd");
+            Console.WriteLine("пунь-пунь");
         }
     }
 }
